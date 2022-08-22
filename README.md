@@ -1,2 +1,2 @@
 # Local-SQL
- Local environment for writing SQL
+ Repo for practice SQL code and Udemy general challenges
