@@ -1,0 +1,9 @@
+SELECT * FROM rental LIMIT 1;
+
+SELECT COALESCE
+	(
+	rental_id
+	)
+FROM rental ORDER BY rental_id ASC LIMIT 100;
+
+SELECT COALESCE(1,NULL,2);
