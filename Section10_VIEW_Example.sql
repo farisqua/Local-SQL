@@ -12,7 +12,7 @@ INNER JOIN address
 ON customer.address_id = address.address_id;
 
 /* Change view name */
-/* ALTER VIEW IF EXISTS customer_info RENAME to c_info; */
+/* ALTER VIEW IF EXISTS customer_info RENAME to c_info;
 
 SELECT * FROM c_info;
 
